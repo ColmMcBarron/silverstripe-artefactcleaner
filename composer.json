@@ -24,9 +24,6 @@
   "require": {
     "silverstripe/framework": "~3.2"
   },
-  "require-dev": {
-    "phpunit/PHPUnit": "~3.7"
-  },
   "extra": {
     "installer-name": "artefactcleaner"
   }
